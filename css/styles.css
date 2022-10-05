@@ -166,7 +166,7 @@
   margin-top: 40;
   margin-left: 40px;
 }
-/* Main Second */
+/* ----------  Main Second  ------------------  */
 .main-second{
   display: flex;
   flex-direction: row;
@@ -188,8 +188,8 @@
 }
 /* opisanie-second */
 .opisanie-second{
-  margin-top: 50px;
-  line-height: 30px;
+  margin-top: 30px;
+  line-height: 26px;
 }
 /* opisanie-projects-second */
 .opisanie-projects-second{
